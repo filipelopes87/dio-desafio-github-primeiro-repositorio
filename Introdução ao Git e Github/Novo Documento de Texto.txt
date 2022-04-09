@@ -1,1 +1,20 @@
 Minhas anotações em relação ao estudo de github
+
+1º Passo- Criar um repositório no github e colocar a descrição.
+2º Passo- Deixar o repositório público
+3º Passo- Marcar a opção "Add a Readme file"
+4º Passo- Entrar em "Code" e selecionar o HTPPS e copiar
+5º Passo- Abrir o git bach na pasta que receberá o arquivo
+6º Passo- Utilizar o comando git clone e colar o link copiado
+7º Passo- cd (até entrar na pasta que estamos trabalhando lembrar de utiliza o Tab
+para completar e o ctrl + L para limpar a tela
+8º Passo- digitar git status e conferir a (main)
+9º Passo- Criar as pastas junto com o arquivo readme.md
+10º Passo- Digitar (git add .)
+11º Passo- Digitar (git commit -m "Texto de orientação")
+12º Passo- Digitar (git push origin main)
+
+
+
+
+
